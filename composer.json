@@ -1,6 +1,7 @@
 {
     "name": "liaoyuehuan/comp",
     "description": "liaoyuehuan comp",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "liaoyuehuaun",
