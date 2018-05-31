@@ -1,0 +1,16 @@
+{
+    "name": "liaoyuehuan/comp",
+    "description": "liaoyuehuan comp",
+    "authors": [
+        {
+            "name": "liaoyuehuaun",
+            "email": "1309893442@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4":{
+    		"Hello\\": "src/Hello/"
+    	}
+    }
+}
